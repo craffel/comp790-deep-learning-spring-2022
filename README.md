@@ -35,7 +35,7 @@ Students should read the associated textbook section/chapters before class.
 All readings refer to corresponding sections in [Dive into Deep Learning](http://d2l.ai).
 
 |       Date      |                             Subject                            |         Reading        |        Homework       |
-|:---------------:|:--------------------------------------------------------------:|:----------------------:|:---------------------:|
+|:---------------:|----------------------------------------------------------------|:----------------------:|:---------------------:|
 |       Mon, 1/10 | Class introduction, background, logistics                      | §2.1-2.7 (optional)    |                       |
 |       Wed, 1/12 | Linear regression                                              | §3.1-3.3               | H1 assigned           |
 |       Mon, 1/17 | No class                                                       | —                      |                       |
