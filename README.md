@@ -111,6 +111,22 @@ Relevant policy documents as they relate to registration and accommodations dete
 
 CAPS is strongly committed to addressing the mental health needs of a diverse student body through timely access to consultation and connection to clinically appropriate services, whether for short or long-term needs. Go to their [website](https://caps.unc.edu/) or visit their facilities on the third floor of the Campus Health Services building for a walk-in evaluation to learn more.
 
+
+## Mask use
+
+This semester, while we are in the midst of a global pandemic, all enrolled students are required to wear a mask covering your mouth and nose at all times in our classroom.
+This requirement is to protect our educational community — your classmates and me – as we learn together.
+If you choose not to wear a mask, or wear it improperly, I will ask you to leave immediately, and I will submit a report to the [Office of Student Conduct](https://cm.maxient.com/reportingform.php?UNCChapelHill&layout_id=23).
+At that point you will be disenrolled from this course for the protection of our educational community.
+Students who have an authorized accommodation from Accessibility Resources and Service have an exception.
+For additional information, see [Carolina Together](https://carolinatogether.unc.edu/).
+
+## Spring 2022 Course Delivery
+
+As long as it is possible to do so safely, we will be meeting in person this semester.
+I understand the ongoing COVID-19 pandemic may require changes to this plan and will be monitoring the situation closely.
+If I need to change the format of the course temporarily due to outbreaks of illness, I will announce this via email and the course Sakai site.
+
 ## Changes
 
 I reserve the right to make changes to the syllabus, including project due dates and test dates.
