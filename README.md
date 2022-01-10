@@ -1,4 +1,4 @@
-# COMP790: Deep Learning
+# COMP590/790: Deep Learning
 
 Instructor: [Colin Raffel](http://colinraffel.com)
 
