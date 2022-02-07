@@ -8,6 +8,8 @@ Term: Spring 2022
 
 Meeting time: Mondays and Wednesdays, 12:30-1:45pm
 
+Classroom: FB 009 (or virtually)
+
 Office hours: By appointment
 
 Deep learning is the branch of machine learning focused on training neural networks.
