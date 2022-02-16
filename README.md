@@ -37,38 +37,38 @@ Students should read the associated textbook section/chapters before class.
 All readings refer to corresponding sections in [Dive into Deep Learning](http://d2l.ai).
 
 |       Date      |                             Subject                            |         Reading        |        Homework       |
-|:---------------:|----------------------------------------------------------------|:----------------------:|:---------------------:|
+|:---------------:|:--------------------------------------------------------------:|:----------------------:|:---------------------:|
 |       Mon, 1/10 | Class introduction, background, logistics                      | §2.1-2.7 (optional)    |                       |
 |       Wed, 1/12 | Linear regression                                              | §3.1-3.3               | H1 assigned           |
 |       Mon, 1/17 | No class                                                       | —                      |                       |
 |       Wed, 1/19 | Logistic regression                                            | §3.4-3.7               | H1 due, H2 assigned   |
 |       Mon, 1/24 | Multilayer perceptrons                                         | §4.1-4.3               |                       |
-|       Wed, 1/26 | Under/overfitting, regularization                              | §4.4-4.6               | H2 due, H3 assigned   |
-|       Mon, 1/31 | Backpropagation, numerical stability                           | §4.7-4.8               |                       |
-|        Wed, 2/2 | Convolutional neural networks 1                                | §6.1-6.3               | H3 due, H4 assigned   |
-|        Mon, 2/7 | Convolutional neural networks 2                                | §6.4-6.6               |                       |
-|        Wed, 2/9 | Batch normalization & residual connections                     | §7.5-7.6               | H4 due, H5 assigned   |
-|       Mon, 2/14 | Sequence models and language                                   | §8.1-8.3               |                       |
-|       Wed, 2/16 | Recurrent neural networks 1                                    | §8.4-8.7               | H5 due, H6 assigned   |
-|       Mon, 2/21 | Recurrent neural networks 2                                    | §9.1-9.4               |                       |
+|       Wed, 1/26 | No class                                                       | —                      | H2 due, H3 assigned   |
+|       Mon, 1/31 | Under/overfitting, regularization                              | §4.4-4.6               |                       |
+|        Wed, 2/2 | Backpropagation, numerical stability                           | §4.7-4.8               | H3 due, H4 assigned   |
+|        Mon, 2/7 | Convolutional neural networks 1                                | §6.1-6.3               |                       |
+|        Wed, 2/9 | Convolutional neural networks 2                                | §6.4-6.6               | H4 due, H5 assigned   |
+|       Mon, 2/14 | Batch normalization & residual connections                     | §7.5-7.6               |                       |
+|       Wed, 2/16 | Sequence models and language                                   | §8.1-8.3               | H5 due, H6 assigned   |
+|       Mon, 2/21 | Recurrent neural networks 1                                    | §8.4-8.7               |                       |
 |       Wed, 2/23 | Midterm Review                                                 | —                      | H6 due                |
 |       Mon, 2/28 | Midterm                                                        | —                      |                       |
-|        Wed, 3/2 | Sequence-to-sequence learning                                  | §9.5-9.8               | H7 assigned           |
-|        Mon, 3/7 | Attention 1                                                    | §10.1-10.4             |                       |
-|        Wed, 3/9 | Attention 2                                                    | §10.5-10.7             | H7 due, H8 assigned   |
+|        Wed, 3/2 | Recurrent neural networks 2                                    | §9.1-9.4               | H7 assigned           |
+|        Mon, 3/7 | Sequence-to-sequence learning                                  | §9.5-9.8               |                       |
+|        Wed, 3/9 | Attention 1                                                    | §10.1-10.4             | H7 due, H8 assigned   |
 |       Mon, 3/14 | No class                                                       | —                      |                       |
 |       Wed, 3/16 | No class                                                       | —                      |                       |
-|       Mon, 3/21 | Gradient descent                                               | §11.1-11.5             |                       |
-|       Wed, 3/23 | Adaptive gradient methods                                      | §11.6-11.11            | H8 due, H9 assigned   |
-|       Mon, 3/28 | Data augmentation and transfer learning for CV                 | §13.1-13.2             |                       |
-|       Wed, 3/30 | Word vectors                                                   | §14.1-14.7             | H9 due, H10 assigned  |
-|        Mon, 4/4 | Transfer learning for NLP                                      | §14.8-14.10, 15.6-15.7 |                       |
-|        Wed, 4/6 | Generative adversarial networks                                | §13.10, 17.1-2         | H10 due, H11 assigned |
-|       Mon, 4/11 | Autoencoders & variational autoencoders                        | —                      |                       |
-|       Wed, 4/13 | Deep autoregressive models                                     | —                      | H11 due, H12 assigned |
-|       Mon, 4/18 | Semi-supervised and self-supervised learning                   | —                      |                       |
-|       Wed, 4/20 | Distribution shift; fairness, accountability, and transparency | §4.9                   | H12 due               |
-|       Mon, 4/25 | (bonus slot for catchup or guest lecture)                      | —                      |                       |
+|       Mon, 3/21 | Attention 2                                                    | §10.5-10.7             |                       |
+|       Wed, 3/23 | Gradient descent                                               | §11.1-11.5             | H8 due, H9 assigned   |
+|       Mon, 3/28 | Adaptive gradient methods                                      | §11.6-11.11            |                       |
+|       Wed, 3/30 | Data augmentation and transfer learning for CV                 | §13.1-13.2             | H9 due, H10 assigned  |
+|        Mon, 4/4 | Word vectors                                                   | §14.1-14.7             |                       |
+|        Wed, 4/6 | Transfer learning for NLP                                      | §14.8-14.10, 15.6-15.7 | H10 due, H11 assigned |
+|       Mon, 4/11 | Generative adversarial networks                                | §13.10, 17.1-2         |                       |
+|       Wed, 4/13 | Autoencoders & variational autoencoders                        | —                      | H11 due, H12 assigned |
+|       Mon, 4/18 | Deep autoregressive models                                     | —                      |                       |
+|       Wed, 4/20 | Semi-supervised and self-supervised learning                   | —                      | H12 due               |
+|       Mon, 4/25 | Distribution shift; fairness, accountability, and transparency | §4.9                   |                       |
 |       Wed, 4/27 | Final exam review                                              | —                      |                       |
 | Final exam slot | Final exam                                                     | —                      |                       |
 
