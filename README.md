@@ -67,9 +67,9 @@ All readings refer to corresponding sections in [Dive into Deep Learning](http:/
 |       Mon, 4/11 | Generative adversarial networks 1                              | §13.10, 17.1-2         |                       |
 |       Wed, 4/13 | Generative adversarial networks 2                              | §13.10, 17.1-2         | H11 due, H12 assigned |
 |       Mon, 4/18 | Variational Autoencoders                                       | —                      |                       |
-|       Wed, 4/20 | Semi-supervised and self-supervised learning                   | —                      | H12 due               |
+|       Wed, 4/20 | Semi-supervised and self-supervised learning                   | —                      |                       |
 |       Mon, 4/25 | Distribution shift; fairness, accountability, and transparency | §4.9                   |                       |
-|       Wed, 4/27 | Final exam review                                              | —                      |                       |
+|       Wed, 4/27 | Final exam review                                              | —                      | H12 due               |
 | Final exam slot | Final exam                                                     | —                      |                       |
 
 ## Grading
